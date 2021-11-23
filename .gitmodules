@@ -1,0 +1,3 @@
+[submodule "a1-support"]
+	path = a1-support
+	url = https://github.com/PJPDQ/a-star-search
